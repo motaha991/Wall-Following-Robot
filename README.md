@@ -4,7 +4,7 @@ This project involves designing a wall-following robot using an ESP32 microcontr
 
 ## Block Diagram
 
-![image](https://github.com/user-attachments/assets/bdacd95b-e01b-483f-b754-36c61e1d1324)
+![image](https://github.com/user-attachments/assets/39a5ae1e-3586-4d28-8158-72349cc5713f)
 
 The brain of the robot is the microcontroller (ESP32), responsible for processing input from the range sensors and controlling the motors accordingly to follow walls accurately.
 
